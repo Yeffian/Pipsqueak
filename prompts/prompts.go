@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io"
 
-	. "goterm/colors"
-	. "goterm/styles"
+	. "pipsqueak/colors"
+	. "pipsqueak/styles"
 )
 
 func Prompt(prompt string, in io.Reader) (string, error) {

@@ -1,10 +1,10 @@
 package main
 
 import (
-	. "goterm/colors"
-	. "goterm/prompts"
-	. "goterm/styles"
 	"os"
+	. "pipsqueak/colors"
+	. "pipsqueak/prompts"
+	. "pipsqueak/styles"
 )
 
 func main() {
